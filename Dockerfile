@@ -1,4 +1,4 @@
-FROM ioos/ckan:2.8.1
+FROM ioos/ckan:2.8.2
 
 USER root
 # Add my custom configuration file
