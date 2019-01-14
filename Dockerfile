@@ -1,4 +1,4 @@
-FROM hai694617515/ckan:2.8.2
+FROM hai694617515/ckan:temporal_extents
 
 USER root
 # Add my custom configuration file
